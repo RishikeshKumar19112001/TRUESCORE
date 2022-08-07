@@ -1,2 +1,2 @@
 # TRUESCORE
-CODECHEF "problem Is the Score Consistent".
+CODECHEF problem "Is the Score Consistent".
